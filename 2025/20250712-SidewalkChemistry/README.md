@@ -19,5 +19,6 @@ For licensing inquiries, please contact the original creator directly.
 ---
 
 ## 🔗 Related Media
-- YouTube Shorts: [Coming Soon]  
+- Watch the YouTube Shorts version here:  
+📺 [Sidewalk Chemistry – AI R&B Track (Shorts)](https://youtube.com/shorts/ZtNyBEq9Tgs?feature=share) 
 - Google Drive (restricted access): Available for clients only
