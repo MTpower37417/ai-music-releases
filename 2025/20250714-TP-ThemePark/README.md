@@ -37,7 +37,7 @@ Aimed for use in Shorts, Reels, and creative digital storytelling.
 
 ## 🔗 External Links
 
-- YouTube Shorts: *(pending link)*  
+- YouTube Shorts: 🎥 Watch on YouTube Shorts: [https://youtube.com/shorts/TIXdvj6qjmw](https://youtube.com/shorts/TIXdvj6qjmw) 
 - GitHub Repo: [ai-music-releases](https://github.com/MTpower37417/ai-music-releases/tree/main/2025/20250714-TP-ThemePark)
 
 ---
