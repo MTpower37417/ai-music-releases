@@ -5,3 +5,4 @@ Date: 2025-07-12
 AI Tools: Suno AI (music), Sora AI (video), CapCut (editing)  
 License: Owned by creator – Not for public redistribution  
 Platform: YouTube Shorts + GitHub + Google Drive
+YouTube_Short_URL=https://youtube.com/shorts/ZtNyBEq9Tgs?feature=share
