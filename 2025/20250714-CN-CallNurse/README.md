@@ -3,7 +3,7 @@
 This project contains full licensing and metadata for the AI-generated track **"Call Nurse"**, composed by **Narbase Pangrak**. All content is AI-generated and fully licensed.
 
 ## 🔗 YouTube Shorts
-https://youtube.com/shorts/ [INSERT SHORTS LINK HERE AFTER POST]
+https://youtube.com/shorts/ (https://youtube.com/shorts/wVJbOa2UvWk?feature=share)
 
 ## 🎵 Music Details
 - **Title:** Call Nurse  
