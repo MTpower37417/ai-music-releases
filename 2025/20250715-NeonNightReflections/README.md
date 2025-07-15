@@ -23,5 +23,5 @@ All visual elements were AI-generated using Sora and CapCut with full creative r
 - `README.md` — project summary and references
 
 ---
-**🔗 GitHub Project:** [https://github.com/MTpower37417/ai-music-releases/tree/main/2025/20250715-NeonNightReflections](https://github.com/MTpower37417/ai-music-releases/tree/main/2025/20250715-NeonNightReflections)
+**🔗 GitHub Project:** https://github.com/MTpower37417/ai-music-releases/tree/main/2025/20250715-NeonNightReflections
 
