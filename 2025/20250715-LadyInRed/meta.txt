@@ -1,0 +1,7 @@
+PROJECT_NAME=Lady in Red
+GENRE=R&B / Acoustic
+BPM=90
+THEME=Red Dress, Modern Love, Zoo Walk
+MOOD=Gentle, Playful, Laid-back
+VIDEO_STYLE=POV, Cinematic, Natural Light
+AI_POLICY=Compliant with YouTube AI Policy (2025 update)
