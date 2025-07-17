@@ -15,3 +15,6 @@ _A gentle AI-generated R&B groove with a cinematic touch._
 ### Licensing
 This track is licensed for **personal and commercial use** under the terms specified in `LICENSE.txt`.  
 Do not re-upload, sell, or redistribute the original audio without permission.
+
+🎥 YouTube Shorts Preview:  
+https://youtu.be/oj_1I_9Jgss
