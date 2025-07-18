@@ -17,3 +17,4 @@ https://github.com/MTpower37417/ai-music-releases/tree/main/2025/20250719-MM-Mar
 This content was created entirely using artificial intelligence (music + video).  
 This complies fully with YouTube’s AI-generated content policy.
 
+https://youtube.com/shorts/AYIgBWI5Yp8?feature=share
