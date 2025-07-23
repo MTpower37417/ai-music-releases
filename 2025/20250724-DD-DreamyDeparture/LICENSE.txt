@@ -1,0 +1,13 @@
+Copyright 2025 MTpower37417
+
+This music loop is licensed under a dual-license model:
+
+1. Free License (Personal/Non-commercial Use)
+- You are free to use this loop in your YouTube Shorts, TikTok, IG Reels, and similar platforms
+- You **must provide attribution** by linking to the original GitHub repo
+
+2. Commercial/Exclusive License
+- Attribution is not required
+- For paid or large-scale commercial use, please contact the creator for licensing terms
+
+This project complies with YouTube's AI-generated content policy.
