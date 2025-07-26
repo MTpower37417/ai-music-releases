@@ -1,0 +1,10 @@
+title: Santorini Sky
+date: 2025-07-26
+theme: Santorini Sky
+visuals: ReflexOS
+music: Suno AI
+license: Royalty-Free
+license_type:
+  - Free Use: Requires attribution (YouTube Shorts, social posts)
+  - Paid License: No attribution required, for commercial clients
+tags: [Santorini, Greece, Aegean, ReflexOS, AI Music, Chill Vibes]

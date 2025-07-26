@@ -1,0 +1,15 @@
+# LICENSE.txt
+
+## 📜 Royalty-Free License
+
+This track **"Santorini Sky"** is licensed under a dual-usage policy:
+
+1. **Free Use**
+   - Platforms: YouTube Shorts, TikTok, Instagram Reels, personal videos
+   - Requirement: Attribution must be included (credit ReflexOS + link to GitHub repo)
+
+2. **Paid License**
+   - For commercial use, client projects, or no-attribution usage
+   - Contact the creator for pricing and terms
+
+This content complies fully with YouTube’s AI-generated content policy.
